@@ -1,0 +1,14 @@
+{
+    "name": "kkreft/calendar-workshop",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit-mock-objects": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Karol Kreft",
+            "email": "karol@kreft.net.pl"
+        }
+    ],
+    "require": {}
+}
